@@ -1,6 +1,21 @@
+# TuringTest
+
+Here some things about me and mine knowledge. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project was made using the follow technologies:
+
+*[React](https://pt-br.reactjs.org)
+*[Styled-components](https://styled-components.com)
+
+To install yarn with npm: 
+```bash
+npm install --global yarn
+```
 
 ## Available Scripts
 
