@@ -29,15 +29,15 @@ function App() {
               ItaloCosta99
             </Button>
             <Button href="https://www.instagram.com/italocosta99/">
-              <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384015.svg?token=exp=1619730390~hmac=b18e138b8edcbf84b0546d7cf8c82cd5" alt="Instagram logo"/>
+              <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384015.svg?token=exp=1619750001~hmac=e4a939acf8a0172fbe4053a94df79bde" alt="Instagram logo"/>
               ItaloCosta99
             </Button>
             <Button href="https://www.linkedin.com/in/ítalo-costa-450a001b9/">
-              <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384014.svg?token=exp=1619730390~hmac=403fd83eb59e28803c10a1bf5b902f77" alt="LinkedIn logo"/>
+              <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384014.svg?token=exp=1619750001~hmac=6862ded75bdaedcbd05488705fce27f1" alt="LinkedIn logo"/>
               Ítalo Costa
             </Button>
             <Button href="https://www.facebook.com/profile.php?id=100014282839216">
-              <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384021.svg?token=exp=1619732377~hmac=a0292b325e94a45482e85a8d025ed634" alt="Facebook logo"/>
+              <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384005.svg?token=exp=1619750001~hmac=b9d6e4cb637b52429daf03429ffc9e69" alt="Facebook logo"/>
               Ítalo Costa
             </Button>
           </Container>
