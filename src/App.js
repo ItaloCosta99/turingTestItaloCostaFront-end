@@ -70,7 +70,7 @@ function App() {
           <p>
             Um Quiz sobre o time do meu coração o Corinthians, feito com Next.js, Styled Components, React.
             <br/> 
-            Realizado durante a 2ª Imersão React promovida pela a Alura.
+            Realizado durante a 2ª Imersão React promovida pela Alura.
           </p>
         </Card>
       </div>
